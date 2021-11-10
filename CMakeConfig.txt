@@ -5,6 +5,7 @@ set(PROTOCOL_ALECTO_WS1700 ON CACHE BOOL "support for the Alecto WS1700 protocol
 set(PROTOCOL_ALECTO_WSD17 ON CACHE BOOL "support for the Alecto WSD 17 protocol")
 set(PROTOCOL_ALECTO_WX500 ON CACHE BOOL "support for the Alecto WX500 protocol")
 set(PROTOCOL_AURIOL ON CACHE BOOL "support for the Auriol weather station protocol")
+set(PROTOCOL_AURIOL_4LD56661 ON CACHE BOOL "support for the Auriol 4-LD56661 weather station protocol")
 set(PROTOCOL_ARPING ON CACHE BOOL "support for the MAC based ping protocol")
 set(PROTOCOL_BEAMISH_SWITCH ON CACHE BOOL "support for the Beamish switch protocol")
 set(PROTOCOL_BMP180 ON CACHE BOOL "support for the BMP180/085 i2c barometric pressure-temperature sensor")
